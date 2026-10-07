@@ -1,0 +1,20 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/mawadao/frontend.git
+	branch = main
+[submodule "agent"]
+	path = agent
+	url = https://github.com/mawadao/mawadao-agent.git
+	branch = main
+[submodule "supabase"]
+	path = supabase
+	url = https://github.com/mawadao/supabase.git
+	branch = main
+[submodule "org-profile"]
+	path = org-profile
+	url = https://github.com/mawadao/.github.git
+	branch = main
+[submodule "registry"]
+	path = registry
+	url = https://github.com/mawadao/registry.git
+	branch = main
