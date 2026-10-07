@@ -7,7 +7,7 @@ community, governed transparently, and held to the highest standards of responsi
 
 1. **Developers build** AI agents for education, learning support and small-business needs, and list them in the open marketplace.
 2. **Agents are reviewed** against our responsible AI and child-safety standards before they are made available.
-3. **Schools, orphanages and educators use** the agents free of charge. **Companies and businesses** pay the price the developer sets.
+3. **Schools, educators and small businesses use** the agents free of charge through the marketplace.
 4. **Usage and impact are recorded** on a blockchain ledger, so contributions and outcomes are transparent and verifiable.
 5. **Rewards return to the community**: developers, reviewers, educators and local communities are recognised and rewarded for the value they create.
 6. **The community governs** the platform through a decentralised autonomous organisation (DAO) operating at local, country and global level.
@@ -15,18 +15,11 @@ community, governed transparently, and held to the highest standards of responsi
 ## What we offer
 
 **Open agent marketplace.** Developers list and share agents for free. There are no listing fees
-and no platform commission on educational use. Every listing shows its price and usage for three
-types of user:
-
-| Type | Who | Price |
-| --- | --- | --- |
-| Education | Students, teachers, schools, orphanages and non-profits | Always free |
-| Individuals | People using it for themselves | Set by the developer |
-| Business | Companies and businesses | Set by the developer; supports their work |
+and no platform commission on educational use. How larger organisations can support the
+developers is being decided with the community; until then, [talk to us](https://mawadao.com/#contact).
 
 **Explore AI tools.** A public, community-maintained list of AI tools that students and educators
-can browse to discover and learn about new and trending tools, with pricing and usage for each
-type of user.
+can browse to discover and learn about new and trending tools.
 
 **The registry.** Anyone can list a tool or agent by opening a pull request in
 [mawadao/registry](https://github.com/mawadao/registry). Listings are checked automatically and
@@ -75,15 +68,15 @@ Full responsible AI and safeguarding policies, and a code of conduct, are being 
 ## Who it is for
 
 **AI developers** who want their work to make a real difference, build a public portfolio, earn
-from business use and rewards, and help own the platform they contribute to.
+rewards and help own the platform they contribute to.
 
 **Schools, orphanages and educators** who need free, trustworthy AI tools for tutoring, literacy,
 numeracy, language learning and teaching support.
 
 **Students and learners** who want to explore and understand the AI tools shaping their world.
 
-**Companies and businesses** that want practical AI agents and, by paying for them, support the
-developers who build for children.
+**Small businesses and community organisations** that want access to practical AI agents without
+the cost of commercial platforms.
 
 **Funders, NGOs and partners** who want transparent, verifiable evidence of where support goes
 and what impact it has.
@@ -93,7 +86,7 @@ and what impact it has.
 - [ ] **Phase 1: Foundation.** Core marketplace, agent manifest standard, responsible AI and safeguarding policies, first education agents
 - [ ] **Phase 2: Pilot.** Pilots with a small number of schools and orphanages; contributor registry and reward mechanism live on testnet
 - [ ] **Phase 3: Governance.** DAO launch with local and country chapters; community voting on standards and reward rules
-- [ ] **Phase 4: Scale.** Multi-language support, offline and low-bandwidth deployment, expansion to more businesses and new regions
+- [ ] **Phase 4: Scale.** Multi-language support, offline and low-bandwidth deployment, expansion to small businesses and new regions
 - [ ] **Phase 5: Impact.** Public, verifiable impact reporting for communities, funders and partners
 
 ## Status

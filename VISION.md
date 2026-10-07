@@ -18,17 +18,14 @@ device their school can afford, and helps their teacher rather than replacing th
 The AI tools that make this possible are built in the open, checked by the community before they
 reach a child, and owned by the people who build and use them, not by a single company.
 
-The developers who build them can make a living from it, because businesses pay for what
-children and educators get for free.
-
 ## Principles
 
-**Free for education, always.** Students, teachers, schools, orphanages and non-profits never pay
-for an agent on mawaDao. Listing is free, and mawaDao takes no commission on educational use.
+**Free for education, always.** Students, teachers, schools, orphanages, community educators and
+small businesses never pay for an agent on mawaDao. Listing is free, and mawaDao takes no
+commission on educational use.
 
-**Businesses support the builders.** Companies and businesses pay the price a developer sets.
-That income goes to the developers who build for mawaDao, so building for children is
-sustainable work, not charity.
+**Contributors are rewarded.** Building agents, reviewing them, translating and supporting schools
+earn recognition and rewards from the community, so building for children is valued work.
 
 **Safety before scale.** Agents used with children are reviewed for safety, privacy, fairness and
 age suitability before they are listed, and can be suspended the moment a concern is raised.
@@ -50,7 +47,7 @@ are public, so anyone can check how decisions are made and where value goes.
 
 | Part | Serves the vision by |
 | --- | --- |
-| The agent marketplace | Getting reviewed agents to schools free, and paying developers through business use |
+| The agent marketplace | Getting reviewed agents to schools and educators free of charge |
 | Explore AI tools | Helping students and educators discover and understand new AI tools |
 | The registry | Letting anyone list a tool or agent in the open, by pull request |
 | The member space | Giving every member their own agent and workspace at `agent.mawadao.com/<username>` |

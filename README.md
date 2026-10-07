@@ -37,9 +37,9 @@ mawadao/
 with what each one costs for education, individuals and businesses. The list lives in
 [`registry/`](registry) and anyone can add to it by pull request.
 
-**Use agents.** Schools, orphanages, community educators and students use agents from the
-marketplace free of charge. Companies and businesses pay the price the developer sets, which
-supports the people building for mawaDao.
+**Use agents.** Schools, orphanages, community educators, students and small businesses use
+agents from the marketplace free of charge. Using agents in a larger organisation?
+[Talk to us](https://mawadao.com/#contact).
 
 **Build and contribute.** Developers list tools and agents, review them for safety, translate
 them, and improve the platform itself in [`agent/`](agent). Not every contribution is code:
