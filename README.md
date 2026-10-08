@@ -33,7 +33,7 @@ mawadao/
 ├── website/       mawadao.com, including the marketplace         → mawadao/frontend
 ├── mawa/          mawa: member space, community and agent        → mawadao/mawa
 │                  runtime (has its own submodules)
-├── registry/      Community list of AI tools and agents          → mawadao/registry
+├── registry/      Community list of AI tools and agents          → mawadao/marketplace-registry
 ├── supabase/      Database and sign-in for mawadao.com           → mawadao/supabase
 └── org-profile/   The GitHub organisation profile                → mawadao/.github
 ```
@@ -70,7 +70,7 @@ code; [INDEX.md](INDEX.md) says which one that is.
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
-- To list an AI tool or agent, open a pull request in [mawadao/registry](https://github.com/mawadao/registry).
+- To list an AI tool or agent, open a pull request in [mawadao/marketplace-registry](https://github.com/mawadao/marketplace-registry).
 - To change the platform, read [mawa's contributing guide](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md).
 - To improve these pages, open a pull request here.
 

@@ -9,7 +9,7 @@ Where every part of mawaDao lives. Each repository is public and open to contrib
 | `website/` | [mawadao/frontend](https://github.com/mawadao/frontend) | mawadao.com: the public website (Next.js) |
 | `supabase/` | [mawadao/supabase](https://github.com/mawadao/supabase) | Database schema and sign-in for mawadao.com |
 | `mawa/` | [mawadao/mawa](https://github.com/mawadao/mawa) | mawa: the member space, community and agent runtime (the marketplace itself is on [mawadao.com](https://mawadao.com/marketplace)) |
-| `registry/` | [mawadao/registry](https://github.com/mawadao/registry) | The community list of AI tools and agents, one YAML file per listing |
+| `registry/` | [mawadao/marketplace-registry](https://github.com/mawadao/marketplace-registry) | The community list of AI tools and agents, one YAML file per listing |
 | `org-profile/` | [mawadao/.github](https://github.com/mawadao/.github) | The organisation profile shown on github.com/mawadao |
 | (this repository) | [mawadao/mawadao](https://github.com/mawadao/mawadao) | Vision, mission, this index, and all of the above as submodules |
 
@@ -33,16 +33,16 @@ and [architecture](https://github.com/mawadao/mawa/blob/main/docs/architecture.m
 
 | Index | Where | Updated |
 | --- | --- | --- |
-| AI tools and agents | `https://mawadao.github.io/registry/index.json` | On every merge to the registry, and weekly for trending |
-| Listing format | [registry/schema/listing.schema.json](https://github.com/mawadao/registry/blob/main/schema/listing.schema.json) | With the registry |
+| AI tools and agents | `https://mawadao.github.io/marketplace-registry/index.json` | On every merge to the registry, and weekly for trending |
+| Listing format | [registry/schema/listing.schema.json](https://github.com/mawadao/marketplace-registry/blob/main/schema/listing.schema.json) | With the registry |
 | Container images | `ghcr.io/mawadao/mawa-<component>` | On each component release |
 
 ## Where do I…
 
 | I want to… | Go to |
 | --- | --- |
-| List an AI tool or an agent | [mawadao/registry](https://github.com/mawadao/registry): copy a template and open a pull request |
-| Report a safety concern about an agent | An issue in [mawadao/registry](https://github.com/mawadao/registry/issues) naming the agent |
+| List an AI tool or an agent | [mawadao/marketplace-registry](https://github.com/mawadao/marketplace-registry): copy a template and open a pull request |
+| Report a safety concern about an agent | An issue in [mawadao/marketplace-registry](https://github.com/mawadao/marketplace-registry/issues) naming the agent |
 | Report a security vulnerability | Private vulnerability reporting ("Report a vulnerability") on the affected repository |
 | Fix or improve the marketplace, member space or runtime | [mawadao/mawa](https://github.com/mawadao/mawa) and its [contributing guide](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md) |
 | Change mawadao.com | [mawadao/frontend](https://github.com/mawadao/frontend) |

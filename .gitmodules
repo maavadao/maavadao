@@ -12,7 +12,7 @@
 	branch = main
 [submodule "registry"]
 	path = registry
-	url = https://github.com/mawadao/registry.git
+	url = https://github.com/mawadao/marketplace-registry.git
 	branch = main
 [submodule "mawa"]
 	path = mawa
