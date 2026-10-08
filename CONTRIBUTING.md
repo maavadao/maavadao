@@ -2,12 +2,13 @@
 
 Thank you for helping. There are many ways to contribute, and not all of them involve code:
 
-- Build or improve AI agents for education and small businesses
+- Build or improve AI agents for education, teaching and content creation
+- Propose a project for the DAO to vote on
 - List useful AI tools so students and educators can learn about them
 - Review agents for safety, quality and bias
 - Translate agents and learning content into local languages
 - Improve documentation and guides
-- Connect schools, orphanages and communities to the platform
+- Connect schools, colleges and communities to the platform
 
 ## Where to contribute
 
@@ -17,8 +18,8 @@ Open issues and pull requests in the repository that owns what you are changing.
 | You want to | Go to |
 | --- | --- |
 | List an AI tool or agent | [mawadao/registry](https://github.com/mawadao/registry) |
-| Work on the marketplace, member space or agent runtime | [mawadao/mawa](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md) |
-| Change mawadao.com | [mawadao/frontend](https://github.com/mawadao/frontend) |
+| Work on the member space or agent runtime | [mawadao/mawa](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md) |
+| Change mawadao.com or the marketplace | [mawadao/frontend](https://github.com/mawadao/frontend) |
 | Improve the vision, mission or index | This repository |
 
 ## In this repository

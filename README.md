@@ -1,13 +1,20 @@
 # mawaDao
+### Community-Governed AI & Blockchain Technologies for Education
 
-**A non-profit, community-owned marketplace for responsible AI agents, built to bring quality
-education to underserved children and orphans.**
+**Build it. Own it. Share it. Free for everyone, with a share of every success going to
+children who need it most.**
 
-Millions of children, particularly orphans and those in low-income or remote communities, have no
-access to good teachers, tutoring or learning resources. At the same time, developers around the
-world are building AI agents that could help close that gap. mawaDao connects the two: developers
-build and list agents, schools and educators use them free of charge, and the community that
-builds the platform owns it and decides how it is run.
+mawaDao brings together agentic AI and blockchain technologies to create an open,
+community-owned ecosystem for education. Developers build and list AI agents on the mawa
+Marketplace. Educators, students and content creators use them to teach, learn, research and
+inform. The community decides, through the DAO, what gets built next.
+
+There are no listing fees, no creation fees and no commissions. When a product earns money,
+**75% goes to the community who built it and 25% goes to mawa** to educate deserving children,
+orphans and street children.
+
+mawa already runs **two schools for deserving children**, and mawaDao extends that mission into
+the age of AI: we're now setting up **Mawa School for AI**.
 
 This repository is the front door to everything mawaDao. It brings every public mawaDao
 repository together as Git submodules, and explains why the project exists and where each part
@@ -23,8 +30,8 @@ lives.
 
 ```
 mawadao/
-├── website/       mawadao.com                                   → mawadao/frontend
-├── mawa/          mawa: marketplace, member space and agent     → mawadao/mawa
+├── website/       mawadao.com, including the marketplace         → mawadao/frontend
+├── mawa/          mawa: member space, community and agent        → mawadao/mawa
 │                  runtime (has its own submodules)
 ├── registry/      Community list of AI tools and agents          → mawadao/registry
 ├── supabase/      Database and sign-in for mawadao.com           → mawadao/supabase
@@ -33,17 +40,18 @@ mawadao/
 
 ## Three ways in
 
-**Explore and learn.** Students, educators and anyone curious can browse AI tools on mawaDao,
-with what each one costs for education, individuals and businesses. The list lives in
-[`registry/`](registry) and anyone can add to it by pull request.
+**Explore and learn.** Students, educators, content creators and anyone curious can browse AI
+tools on mawaDao, with what each one costs for education, individuals and businesses. The list
+lives in [`registry/`](registry) and anyone can add to it by pull request.
 
-**Use agents.** Schools, orphanages, community educators, students and small businesses use
-agents from the marketplace free of charge. Using agents in a larger organisation?
-[Talk to us](https://mawadao.com/#contact).
+**Use agents, free.** Schools, colleges, universities, teachers and students use agents from the
+mawa Marketplace free of charge, for teaching, tutoring, research and learning. Using agents in a
+larger organisation? [Talk to us](https://mawadao.com/#contact).
 
-**Build and contribute.** Developers list tools and agents, review them for safety, translate
-them, and improve the platform itself in [`mawa/`](mawa). Not every contribution is code:
-reviewing, translating and connecting schools matter just as much.
+**Build and contribute.** Developers list agents for free, propose projects the community can
+vote on through the DAO, and improve the platform itself in [`mawa/`](mawa). When a product is
+monetised, 75% of the revenue goes back to the contributors who built it, and 25% funds the
+education of deserving children, orphans and street children.
 
 ## Get everything
 
@@ -72,4 +80,4 @@ Apache 2.0. See [LICENSE](LICENSE). Each repository carries its own licence and 
 
 ---
 
-*Built by the community, owned by the community, for the children who need it most.*
+*mawaDao: no fees, no commissions, community owned. Built by the community, for every child.*

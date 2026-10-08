@@ -8,7 +8,7 @@ Where every part of mawaDao lives. Each repository is public and open to contrib
 | --- | --- | --- |
 | `website/` | [mawadao/frontend](https://github.com/mawadao/frontend) | mawadao.com: the public website (Next.js) |
 | `supabase/` | [mawadao/supabase](https://github.com/mawadao/supabase) | Database schema and sign-in for mawadao.com |
-| `mawa/` | [mawadao/mawa](https://github.com/mawadao/mawa) | mawa: the marketplace, Explore AI tools, member space and agent runtime |
+| `mawa/` | [mawadao/mawa](https://github.com/mawadao/mawa) | mawa: the member space, community and agent runtime (the marketplace itself is on [mawadao.com](https://mawadao.com/marketplace)) |
 | `registry/` | [mawadao/registry](https://github.com/mawadao/registry) | The community list of AI tools and agents, one YAML file per listing |
 | `org-profile/` | [mawadao/.github](https://github.com/mawadao/.github) | The organisation profile shown on github.com/mawadao |
 | (this repository) | [mawadao/mawadao](https://github.com/mawadao/mawadao) | Vision, mission, this index, and all of the above as submodules |
@@ -20,7 +20,7 @@ and [architecture](https://github.com/mawadao/mawa/blob/main/docs/architecture.m
 
 | Folder in `mawa/` | Repository | What it is |
 | --- | --- | --- |
-| `apps/frontend` | [mawa-frontend](https://github.com/mawadao/mawa-frontend) | Marketplace, Explore AI tools (`/tools`), community, sign-up |
+| `apps/frontend` | [mawa-frontend](https://github.com/mawadao/mawa-frontend) | Community, sign-up and the agent workspace. The marketplace lives on [mawadao.com](https://mawadao.com/marketplace) |
 | `apps/dashboard` | [mawa-dashboard](https://github.com/mawadao/mawa-dashboard) | The member space at `agent.mawadao.com/<username>` |
 | `runtime/gateway` | [mawa-gateway](https://github.com/mawadao/mawa-gateway) | Per-member agent runtime (OpenClaw-based) |
 | `runtime/core` | [mawa-core](https://github.com/mawadao/mawa-core) | Lightweight agent runtime (PicoClaw-based) |
