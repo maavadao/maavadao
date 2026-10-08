@@ -24,8 +24,8 @@ lives.
 ```
 mawadao/
 ├── website/       mawadao.com                                   → mawadao/frontend
-├── agent/         mawaDao Agent: marketplace, member space and   → mawadao/mawadao-agent
-│                  agent runtime (has its own submodules)
+├── mawa/          mawa: marketplace, member space and agent     → mawadao/mawa
+│                  runtime (has its own submodules)
 ├── registry/      Community list of AI tools and agents          → mawadao/registry
 ├── supabase/      Database and sign-in for mawadao.com           → mawadao/supabase
 └── org-profile/   The GitHub organisation profile                → mawadao/.github
@@ -42,7 +42,7 @@ agents from the marketplace free of charge. Using agents in a larger organisatio
 [Talk to us](https://mawadao.com/#contact).
 
 **Build and contribute.** Developers list tools and agents, review them for safety, translate
-them, and improve the platform itself in [`agent/`](agent). Not every contribution is code:
+them, and improve the platform itself in [`mawa/`](mawa). Not every contribution is code:
 reviewing, translating and connecting schools matter just as much.
 
 ## Get everything
@@ -63,7 +63,7 @@ code; [INDEX.md](INDEX.md) says which one that is.
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
 - To list an AI tool or agent, open a pull request in [mawadao/registry](https://github.com/mawadao/registry).
-- To change the platform, read [mawaDao Agent's contributing guide](https://github.com/mawadao/mawadao-agent/blob/main/CONTRIBUTING.md).
+- To change the platform, read [mawa's contributing guide](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md).
 - To improve these pages, open a pull request here.
 
 ## Licence

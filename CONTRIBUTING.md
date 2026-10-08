@@ -17,7 +17,7 @@ Open issues and pull requests in the repository that owns what you are changing.
 | You want to | Go to |
 | --- | --- |
 | List an AI tool or agent | [mawadao/registry](https://github.com/mawadao/registry) |
-| Work on the marketplace, member space or agent runtime | [mawadao/mawadao-agent](https://github.com/mawadao/mawadao-agent/blob/main/CONTRIBUTING.md) |
+| Work on the marketplace, member space or agent runtime | [mawadao/mawa](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md) |
 | Change mawadao.com | [mawadao/frontend](https://github.com/mawadao/frontend) |
 | Improve the vision, mission or index | This repository |
 
