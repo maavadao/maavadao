@@ -1,4 +1,4 @@
-# Contributing to mawaDao
+# Contributing to maavaDao
 
 Thank you for helping. There are many ways to contribute, and not all of them involve code:
 
@@ -17,9 +17,9 @@ Open issues and pull requests in the repository that owns what you are changing.
 
 | You want to | Go to |
 | --- | --- |
-| List an AI tool or agent | [mawadao/marketplace-registry](https://github.com/mawadao/marketplace-registry) |
-| Work on the member space or agent runtime | [mawadao/mawa](https://github.com/mawadao/mawa/blob/main/CONTRIBUTING.md) |
-| Change mawadao.com or the marketplace | [mawadao/frontend](https://github.com/mawadao/frontend) |
+| List an AI tool or agent | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry) |
+| Work on the member space or agent runtime | [maavadao/maava](https://github.com/maavadao/maava/blob/main/CONTRIBUTING.md) |
+| Change maavadao.com or the marketplace | [maavadao/frontend](https://github.com/maavadao/frontend) |
 | Improve the vision, mission or index | This repository |
 
 ## In this repository
@@ -34,7 +34,7 @@ git add registry
 git commit -m "Update registry"
 ```
 
-Write in British English (organisation, licence) and spell the name "mawaDao".
+Write in British English (organisation, licence) and spell the name "maavaDao".
 
 ## Licence
 
