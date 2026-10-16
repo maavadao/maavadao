@@ -34,6 +34,7 @@ maavadao/
 ├── maava/          maava: member space, community and agent        → maavadao/maava
 │                  runtime (has its own submodules)
 ├── registry/      Community list of AI tools and agents          → maavadao/marketplace-registry
+├── community-agents/ Open-source agents built by the community  → maavadao/community-agents
 ├── supabase/      Database and sign-in for maavadao.com           → maavadao/supabase
 └── org-profile/   The GitHub organisation profile                → maavadao/.github
 ```
@@ -71,6 +72,7 @@ code; [INDEX.md](INDEX.md) says which one that is.
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
 - To list an AI tool or agent, open a pull request in [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry).
+- To contribute the code of an agent, open a pull request in [maavadao/community-agents](https://github.com/maavadao/community-agents).
 - To change the platform, read [maava's contributing guide](https://github.com/maavadao/maava/blob/main/CONTRIBUTING.md).
 - To improve these pages, open a pull request here.
 

@@ -10,6 +10,7 @@ Where every part of maavaDao lives. Each repository is public and open to contri
 | `supabase/` | [maavadao/supabase](https://github.com/maavadao/supabase) | Database schema and sign-in for maavadao.com |
 | `maava/` | [maavadao/maava](https://github.com/maavadao/maava) | maava: the member space, community and agent runtime (the marketplace itself is on [maavadao.com](https://maavadao.com/marketplace)) |
 | `registry/` | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry) | The community list of AI tools and agents, one YAML file per listing |
+| `community-agents/` | [maavadao/community-agents](https://github.com/maavadao/community-agents) | The code of agents built by the community, one folder per agent |
 | `org-profile/` | [maavadao/.github](https://github.com/maavadao/.github) | The organisation profile shown on github.com/maavadao |
 | (this repository) | [maavadao/maavadao](https://github.com/maavadao/maavadao) | Vision, mission, this index, and all of the above as submodules |
 
@@ -42,6 +43,7 @@ and [architecture](https://github.com/maavadao/maava/blob/main/docs/architecture
 | I want to… | Go to |
 | --- | --- |
 | List an AI tool or an agent | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry): copy a template and open a pull request |
+| Contribute the code of an agent | [maavadao/community-agents](https://github.com/maavadao/community-agents): copy the template folder and open a pull request |
 | Report a safety concern about an agent | An issue in [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry/issues) naming the agent |
 | Report a security vulnerability | Private vulnerability reporting ("Report a vulnerability") on the affected repository |
 | Fix or improve the marketplace, member space or runtime | [maavadao/maava](https://github.com/maavadao/maava) and its [contributing guide](https://github.com/maavadao/maava/blob/main/CONTRIBUTING.md) |

@@ -18,3 +18,7 @@
 	path = maava
 	url = https://github.com/maavadao/maava.git
 	branch = main
+[submodule "community-agents"]
+	path = community-agents
+	url = https://github.com/maavadao/community-agents.git
+	branch = main
