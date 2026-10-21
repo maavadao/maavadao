@@ -50,7 +50,7 @@ maavadao/
 ├── maava/          maava: member space, community and agent        → maavadao/maava
 │                  runtime (has its own submodules)
 ├── registry/      Community list of AI tools and agents          → maavadao/marketplace-registry
-├── maava-agents/  maava Community Agents, built by the community → maavadao/maava-Community-Agents
+├── maava-Community-Agents/ maava Community Agents, built by the community → maavadao/maava-Community-Agents
 ├── open-source-ai-repos/ Open-source AI repos and their developers → maavadao/open-source-ai-repos
 ├── supabase/      Database and sign-in for maavadao.com           → maavadao/supabase
 └── org-profile/   The GitHub organisation profile                → maavadao/.github

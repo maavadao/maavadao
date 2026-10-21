@@ -19,7 +19,7 @@
 	url = https://github.com/maavadao/maava.git
 	branch = main
 [submodule "maava-agents"]
-	path = maava-agents
+	path = maava-Community-Agents
 	url = https://github.com/maavadao/maava-Community-Agents.git
 	branch = main
 [submodule "open-source-ai-repos"]

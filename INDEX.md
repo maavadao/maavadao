@@ -10,7 +10,7 @@ Where every part of maavaDao lives. Each repository is public and open to contri
 | `supabase/` | [maavadao/supabase](https://github.com/maavadao/supabase) | Database schema and sign-in for maavadao.com |
 | `maava/` | [maavadao/maava](https://github.com/maavadao/maava) | maava: the member space, community and agent runtime (the marketplace itself is on [maavadao.com](https://maavadao.com/marketplace)) |
 | `registry/` | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry) | The community list of AI tools and agents, one YAML file per listing |
-| `maava-agents/` | [maavadao/maava-Community-Agents](https://github.com/maavadao/maava-Community-Agents) | maava Community Agents: open-source AI agents for sales, marketing and growth, one folder per agent |
+| `maava-Community-Agents/` | [maavadao/maava-Community-Agents](https://github.com/maavadao/maava-Community-Agents) | maava Community Agents: open-source AI agents for sales, marketing and growth, one folder per agent |
 | `open-source-ai-repos/` | [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos) | A directory of open-source AI repos, one TOML file per repo, and the developers behind them |
 | `org-profile/` | [maavadao/.github](https://github.com/maavadao/.github) | The organisation profile shown on github.com/maavadao |
 | (this repository) | [maavadao/maavadao](https://github.com/maavadao/maavadao) | Vision, mission, this index, and all of the above as submodules |
