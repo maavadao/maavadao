@@ -6,8 +6,10 @@ community-owned ecosystem for education. Developers build and list AI agents on 
 research and inform. The community decides, through the DAO, what gets built next.
 
 There are no listing fees, no creation fees and no commissions. When a product earns money,
-**60% goes to the community who built it and 40% goes to maava** to educate deserving children,
-orphans and street children.
+**60% rewards the contributors who built it and 40% helps children in need**: deserving children,
+orphans and street children, through maava's schools.
+
+Contribute and get rewarded for your work, while helping children in need.
 
 ## The problem we are solving
 
@@ -40,7 +42,7 @@ project is no longer unpaid volunteering. It is a recorded stake in what the com
 2. **Propose a project.** Any community member can propose a new product — an AI science tutor, a research agent for content creators, a clinical-skills trainer for medical students.
 3. **The DAO votes.** The community votes on proposals. Approved projects get the backing of the community.
 4. **Build together.** Developers, educators, designers, translators and subject experts contribute. Every contribution is recorded transparently on the blockchain.
-5. **Share the rewards.** When a product is monetised, revenue is split automatically: 60% to community contributors, 40% to maava, for the education of deserving children, orphans and street children.
+5. **Share the rewards.** When a product is monetised, revenue is split automatically: 60% rewards community contributors and 40% helps children in need, through maava's schools for deserving children, orphans and street children.
 
 Running maavaDao (hosting, infrastructure, maintenance and support) is funded from the earnings
 of monetised products, never by charging developers or users. These operational costs are

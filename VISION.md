@@ -11,14 +11,14 @@ children**, while the AI tools that could change that are built for people who c
 afford them.
 
 maavaDao turns this around: build it, own it, share it, free for everyone, with a share of every
-success going to the children who need it most.
+success going to the children who need it most. Contribute and get rewarded for your work, while helping children in need.
 
 ## The future we are working towards
 
 Every developer's contribution to an open project is a recorded stake in what the community
 builds, not unpaid volunteering. Every learner, educator and content creator has free access to
 agentic AI that helps them teach, learn, research and inform. And every product that succeeds
-sends 40% of what it earns to educate deserving children, orphans and street children — funding
+sends 40% of what it earns to help children in need: it educates deserving children, orphans and street children — funding
 **Maava School for AI** and the schools maava already runs.
 
 No single company owns the platform. The community does.
@@ -29,8 +29,8 @@ No single company owns the platform. The community does.
 Developers list and build for free; educators, students and content creators use maava agents
 free of charge.
 
-**Contributors are rewarded.** When a product is monetised, 60% of the revenue goes to the
-community who built it, enforced in code through the blockchain, not left to promises.
+**Contributors are rewarded, and help children in need.** When a product is monetised, 60% of
+the revenue rewards the community who built it, enforced in code through the blockchain, not left to promises.
 
 **A share of every success funds children's education.** 40% of revenue from every monetised
 product goes to maava, to educate deserving children, orphans and street children — through
