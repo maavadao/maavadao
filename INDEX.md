@@ -10,7 +10,7 @@ Where every part of maavaDao lives. Each repository is public and open to contri
 | `supabase/` | [maavadao/supabase](https://github.com/maavadao/supabase) | Database schema and sign-in for maavadao.com |
 | `maava/` | [maavadao/maava](https://github.com/maavadao/maava) | maava: the member space, community and agent runtime (the marketplace itself is on [maavadao.com](https://maavadao.com/marketplace)) |
 | `registry/` | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry) | The community list of AI tools and agents, one YAML file per listing |
-| `maava-agents/` | [maavadao/maava-agents](https://github.com/maavadao/maava-agents) | maava agents: the code of agents built together by the community, one folder per agent |
+| `maava-agents/` | [maavadao/maava-Community-Agents](https://github.com/maavadao/maava-Community-Agents) | maava Community Agents: open-source AI agents for sales, marketing and growth, one folder per agent |
 | `open-source-ai-repos/` | [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos) | A directory of open-source AI repos, one TOML file per repo, and the developers behind them |
 | `org-profile/` | [maavadao/.github](https://github.com/maavadao/.github) | The organisation profile shown on github.com/maavadao |
 | (this repository) | [maavadao/maavadao](https://github.com/maavadao/maavadao) | Vision, mission, this index, and all of the above as submodules |
@@ -36,7 +36,7 @@ and [architecture](https://github.com/maavadao/maava/blob/main/docs/architecture
 | Index | Where | Updated |
 | --- | --- | --- |
 | AI tools and agents | `https://maavadao.github.io/marketplace-registry/index.json` | On every merge to the registry, and weekly for trending |
-| maava agents | `https://maavadao.github.io/maava-agents/index.json` | On every merge to maava-agents |
+| maava Community Agents | `https://maavadao.github.io/maava-Community-Agents/index.json` | On every merge to maava-Community-Agents |
 | Open-source AI repos | `https://maavadao.github.io/open-source-ai-repos/index.json` | On every merge, and daily for stars |
 | Contributors to open-source AI | `https://maavadao.github.io/open-source-ai-repos/contributors.json` | Daily; login, user id and commits only, with an opt-out |
 | Listing format | [registry/schema/listing.schema.json](https://github.com/maavadao/marketplace-registry/blob/main/schema/listing.schema.json) | With the registry |
@@ -47,7 +47,7 @@ and [architecture](https://github.com/maavadao/maava/blob/main/docs/architecture
 | I want to… | Go to |
 | --- | --- |
 | List an AI tool or an agent | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry): copy a template and open a pull request |
-| Build a maava agent | [maavadao/maava-agents](https://github.com/maavadao/maava-agents): copy the template folder and open a pull request |
+| Build a maava Community Agent | [maavadao/maava-Community-Agents](https://github.com/maavadao/maava-Community-Agents): copy the template folder and open a pull request |
 | Add an open-source AI repo | [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos): copy `templates/repo.toml` and open a pull request |
 | Report a safety concern about an agent | An issue in [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry/issues) naming the agent |
 | Report a security vulnerability | Private vulnerability reporting ("Report a vulnerability") on the affected repository |
