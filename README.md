@@ -1,20 +1,32 @@
-# maavaDao
+<div align="center">
+
+<img src="./assets/banner.svg" alt="MAAVA DAO — a community-owned marketplace for responsible AI agents" width="100%" />
+
 ### Community-Governed AI & Blockchain Technologies for Education
 
-**Build it. Own it. Share it. Free for everyone, with a share of every success going to
-children who need it most.**
+[![Website](https://img.shields.io/badge/Website-maavadao.com-orange?style=flat-square&logo=googlechrome&logoColor=white)](https://maavadao.com)&nbsp;&nbsp;
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)&nbsp;&nbsp;
+[![Governance: community-led](https://img.shields.io/badge/Governance-community--led-orange?style=flat-square)](MISSION.md)&nbsp;&nbsp;
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen?style=flat-square)](#contributing)&nbsp;&nbsp;
+[![GitHub org followers](https://img.shields.io/github/followers/maavadao?style=flat-square&label=Followers&color=7f5af0)](https://github.com/maavadao)
+
+</div>
+
+**Build it. Own it. Share it.** Free for everyone, with a share of every success going to children who need it most.
 
 maavaDao brings together agentic AI and blockchain technologies to create an open,
-community-owned ecosystem for education. Developers build and list AI agents on the maava
+community-owned ecosystem for education. **Developers build and list AI agents on the maava
 Marketplace. Educators, students and content creators use them to teach, learn, research and
-inform. The community decides, through the DAO, what gets built next.
+inform.** The community decides, through the DAO, what gets built next.
 
 There are no listing fees, no creation fees and no commissions. When a product earns money,
-**75% goes to the community who built it and 25% goes to maava** to educate deserving children,
+**60% goes to the community who built it and 40% goes to maava** to educate deserving children,
 orphans and street children.
 
 maava already runs **two schools for deserving children**, and maavaDao extends that mission into
 the age of AI: we're now setting up **Maava School for AI**.
+
+> 🌱 **Early stage.** We are looking for founding contributors, education partners and pilot communities. [Get involved ↓](#contributing)
 
 This repository is the front door to everything maavaDao. It brings every public maavaDao
 repository together as Git submodules, and explains why the project exists and where each part
@@ -26,7 +38,9 @@ lives.
 | [MISSION.md](MISSION.md) | What we do, how the platform works, governance, safety and the roadmap |
 | [INDEX.md](INDEX.md) | Every repository, component and public index, and where to find things |
 
-## What's here
+<details>
+<summary><b>What's here</b></summary>
+<br>
 
 ```
 maavadao/
@@ -40,7 +54,9 @@ maavadao/
 └── org-profile/   The GitHub organisation profile                → maavadao/.github
 ```
 
-## Three ways in
+</details>
+
+### Three ways in
 
 **Explore and learn.** Students, educators, content creators and anyone curious can browse AI
 tools on maavaDao, with what each one costs for education, individuals and businesses. The list
@@ -52,10 +68,12 @@ larger organisation? [Talk to us](https://maavadao.com/#contact).
 
 **Build and contribute.** Developers list agents for free, propose projects the community can
 vote on through the DAO, and improve the platform itself in [`maava/`](maava). When a product is
-monetised, 75% of the revenue goes back to the contributors who built it, and 25% funds the
+monetised, 60% of the revenue goes back to the contributors who built it, and 40% funds the
 education of deserving children, orphans and street children.
 
-## Get everything
+<details>
+<summary><b>Get everything</b></summary>
+<br>
 
 ```bash
 git clone --recurse-submodules https://github.com/maavadao/maavadao.git
@@ -68,20 +86,25 @@ Already cloned? Run `git submodule update --init --recursive`. To move every par
 Each folder is its own repository. Open issues and pull requests in the repository that owns the
 code; [INDEX.md](INDEX.md) says which one that is.
 
-## Contributing
+</details>
+
+### Contributing
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 
 - To list an AI tool or agent, open a pull request in [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry).
-- To build maava agents with others, open a pull request in [maavadao/maava-agents](https://github.com/maavadao/maava-agents). 75% of what an agent earns goes to its contributors, 25% to children's education.
+- To build maava agents with others, open a pull request in [maavadao/maava-agents](https://github.com/maavadao/maava-agents). 60% of what an agent earns goes to its contributors, 40% to children's education.
 - To add an open-source AI repo to the directory, open a pull request in [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos).
 - To change the platform, read [maava's contributing guide](https://github.com/maavadao/maava/blob/main/CONTRIBUTING.md).
 - To improve these pages, open a pull request here.
 
-## Licence
+<details>
+<summary><b>Licence</b></summary>
+<br>
+
 
 Apache 2.0. See [LICENSE](LICENSE). Each repository carries its own licence and notices.
 
----
+</details>
 
-*maavaDao: no fees, no commissions, community owned. Built by the community, for every child.*
+<img src="./assets/footer.svg" alt="No fees, no commissions, community owned. Built by the community, for every child." width="100%" />

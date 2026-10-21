@@ -18,7 +18,7 @@ success going to the children who need it most.
 Every developer's contribution to an open project is a recorded stake in what the community
 builds, not unpaid volunteering. Every learner, educator and content creator has free access to
 agentic AI that helps them teach, learn, research and inform. And every product that succeeds
-sends 25% of what it earns to educate deserving children, orphans and street children — funding
+sends 40% of what it earns to educate deserving children, orphans and street children — funding
 **Maava School for AI** and the schools maava already runs.
 
 No single company owns the platform. The community does.
@@ -29,10 +29,10 @@ No single company owns the platform. The community does.
 Developers list and build for free; educators, students and content creators use maava agents
 free of charge.
 
-**Contributors are rewarded.** When a product is monetised, 75% of the revenue goes to the
+**Contributors are rewarded.** When a product is monetised, 60% of the revenue goes to the
 community who built it, enforced in code through the blockchain, not left to promises.
 
-**A share of every success funds children's education.** 25% of revenue from every monetised
+**A share of every success funds children's education.** 40% of revenue from every monetised
 product goes to maava, to educate deserving children, orphans and street children — through
 maava's existing schools and the new Maava School for AI.
 
@@ -44,7 +44,7 @@ checked by qualified educators or experts.
 through the DAO, at local, country and community level. Contributors are co-owners with a
 voice in the platform's direction.
 
-**Transparent by design.** Blockchain makes contributions, the 75/25 revenue split and
+**Transparent by design.** Blockchain makes contributions, the 60/40 revenue split and
 maavaDao's operational costs verifiable and visible to everyone, not just promised.
 
 **Built for low-resource settings.** Agents should work on low-cost devices, with limited
@@ -58,7 +58,7 @@ bandwidth, and in local languages wherever possible.
 | The registry | Letting anyone list a tool or agent in the open, by pull request |
 | The DAO | Letting the community propose projects, vote on them, and govern the platform at local, country and community level |
 | The member space | Giving every member their own agent and workspace at `agent.maavadao.com/<username>` |
-| Maava schools and Maava School for AI | Turning 25% of every monetised product into education for deserving children, orphans and street children |
+| Maava schools and Maava School for AI | Turning 40% of every monetised product into education for deserving children, orphans and street children |
 
 See [MISSION.md](MISSION.md) for how the platform works today and the roadmap, and
 [INDEX.md](INDEX.md) for where each part lives.

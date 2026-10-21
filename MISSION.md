@@ -6,7 +6,7 @@ community-owned ecosystem for education. Developers build and list AI agents on 
 research and inform. The community decides, through the DAO, what gets built next.
 
 There are no listing fees, no creation fees and no commissions. When a product earns money,
-**75% goes to the community who built it and 25% goes to maava** to educate deserving children,
+**60% goes to the community who built it and 40% goes to maava** to educate deserving children,
 orphans and street children.
 
 ## The problem we are solving
@@ -27,9 +27,9 @@ could change that are built for people who can already afford them.
 | --- | --- | --- | --- |
 | Cost to create or list | Free | Subscriptions and fees | **Free, always** |
 | Commission on sales | None, but no income either | Often 15–30% or more | **None** |
-| Who earns from your work | Usually nobody | Mostly the platform | **75% to the contributors** |
+| Who earns from your work | Usually nobody | Mostly the platform | **60% to the contributors** |
 | Who decides what gets built | Maintainers | The company | **The community, via the DAO** |
-| Social impact | Indirect | Rarely | **25% to children's education** |
+| Social impact | Indirect | Rarely | **40% to children's education** |
 
 **maavaDao monetises expertise for the people who have it.** Your contribution to an open
 project is no longer unpaid volunteering. It is a recorded stake in what the community builds.
@@ -40,7 +40,7 @@ project is no longer unpaid volunteering. It is a recorded stake in what the com
 2. **Propose a project.** Any community member can propose a new product — an AI science tutor, a research agent for content creators, a clinical-skills trainer for medical students.
 3. **The DAO votes.** The community votes on proposals. Approved projects get the backing of the community.
 4. **Build together.** Developers, educators, designers, translators and subject experts contribute. Every contribution is recorded transparently on the blockchain.
-5. **Share the rewards.** When a product is monetised, revenue is split automatically: 75% to community contributors, 25% to maava, for the education of deserving children, orphans and street children.
+5. **Share the rewards.** When a product is monetised, revenue is split automatically: 60% to community contributors, 40% to maava, for the education of deserving children, orphans and street children.
 
 Running maavaDao (hosting, infrastructure, maintenance and support) is funded from the earnings
 of monetised products, never by charging developers or users. These operational costs are
@@ -49,7 +49,7 @@ shared across the community, and every cost is published transparently.
 ## Why blockchain
 
 - **Transparent contributions.** Who built what is recorded and verifiable.
-- **Automatic revenue sharing.** The 75 / 25 split is enforced in code, not left to promises.
+- **Automatic revenue sharing.** The 60/40 split is enforced in code, not left to promises.
 - **Community governance.** DAO voting at local, country and community level keeps decisions with the people affected.
 - **Visible impact.** Supporters can see how funds reach children.
 - **Open accounts.** Operational costs paid from earnings are recorded and visible to the whole community.
