@@ -50,7 +50,7 @@ and [architecture](https://github.com/maavadao/maava/blob/main/docs/architecture
 | --- | --- |
 | List an AI tool or an agent | [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry): copy a template and open a pull request |
 | Build a maava Community Agent | [maavadao/maava-Community-Agents](https://github.com/maavadao/maava-Community-Agents): build it in its own repo from the template, then open a pull request adding it as a submodule |
-| Suggest an AI tool | [maavadao.com/ai-tools](https://maavadao.com/ai-tools), or [maavadao/ai-tools-directory](https://github.com/maavadao/ai-tools-directory): `scripts/add_tool.py` and a pull request |
+| Suggest an AI tool | [maavadao.com/directory](https://maavadao.com/directory), or [maavadao/ai-tools-directory](https://github.com/maavadao/ai-tools-directory): `scripts/add_tool.py` and a pull request |
 | Add an open-source AI repo | [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos): copy `templates/repo.toml` and open a pull request |
 | Report a safety concern about an agent | An issue in [maavadao/marketplace-registry](https://github.com/maavadao/marketplace-registry/issues) naming the agent |
 | Report a security vulnerability | Private vulnerability reporting ("Report a vulnerability") on the affected repository |
