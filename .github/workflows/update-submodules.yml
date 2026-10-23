@@ -1,0 +1,36 @@
+# Each submodule points at one commit, so when a repo moves on this front door keeps pointing at the
+# old one. Once a day this moves every submodule to the latest commit on its branch and pushes.
+name: Update submodules
+
+on:
+  schedule:
+    - cron: "47 3 * * *"  # daily, 03:47 UTC (after maava-Community-Agents updates its agents)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-submodules
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - run: git submodule update --remote
+      - run: |
+          git add -A
+          if git diff --cached --quiet; then echo "Every submodule is on its latest commit"; exit 0; fi
+          {
+            echo "Update submodules to their latest commits"
+            echo
+            git diff --cached --submodule=short | sed -n 's/^diff --git a\/\([^ ]*\) .*/- \1/p'
+          } > "$RUNNER_TEMP/message"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -F "$RUNNER_TEMP/message"
+          git push
