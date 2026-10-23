@@ -26,3 +26,6 @@
 	path = open-source-ai-repos
 	url = https://github.com/maavadao/open-source-ai-repos.git
 	branch = main
+[submodule "ai-tools-directory"]
+	path = ai-tools-directory
+	url = https://github.com/maavadao/ai-tools-directory.git

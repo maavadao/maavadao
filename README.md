@@ -52,6 +52,7 @@ maavadao/
 ├── registry/      Community list of AI tools and agents          → maavadao/marketplace-registry
 ├── maava-Community-Agents/ maava Community Agents, built by the community → maavadao/maava-Community-Agents
 ├── open-source-ai-repos/ Open-source AI repos and their developers → maavadao/open-source-ai-repos
+├── ai-tools-directory/   AI tools, sites and suites, with pricing → maavadao/ai-tools-directory
 ├── supabase/      Database and sign-in for maavadao.com           → maavadao/supabase
 └── org-profile/   The GitHub organisation profile                → maavadao/.github
 ```
