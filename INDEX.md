@@ -13,6 +13,7 @@ Where every part of maavaDao lives. Each repository is public and open to contri
 | `maava-Community-Agents/` | [Maava-Community-Agents/maava-Community-Agents](https://github.com/Maava-Community-Agents/maava-Community-Agents) | maava Community Agents: open-source AI agents for sales, marketing and growth: an index with each agent as a submodule from its own `community-agent-<name>` repo |
 | `ai-tools-directory/` | [maavadao/ai-tools-directory](https://github.com/maavadao/ai-tools-directory) | A directory of AI tools, sites and suites (open source or not), one TOML file per tool, with pricing flags and preview images read from each tool's own site |
 | `open-source-ai-repos/` | [maavadao/open-source-ai-repos](https://github.com/maavadao/open-source-ai-repos) | A directory of open-source AI repos, one TOML file per repo, and the developers behind them |
+| `free-llm-router/` | [maavadao/free-llm-router](https://github.com/maavadao/free-llm-router) | One OpenAI-compatible endpoint over free-tier LLM providers, with fallback and limits; it powers maava AI at [maavadao.com/chat](https://maavadao.com/chat) |
 | `org-profile/` | [maavadao/.github](https://github.com/maavadao/.github) | The organisation profile shown on github.com/maavadao |
 | (this repository) | [maavadao/maavadao](https://github.com/maavadao/maavadao) | Vision, mission, this index, and all of the above as submodules |
 

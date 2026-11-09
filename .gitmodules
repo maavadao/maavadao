@@ -29,3 +29,7 @@
 [submodule "ai-tools-directory"]
 	path = ai-tools-directory
 	url = https://github.com/maavadao/ai-tools-directory.git
+[submodule "free-llm-router"]
+	path = free-llm-router
+	url = https://github.com/maavadao/free-llm-router.git
+	branch = main

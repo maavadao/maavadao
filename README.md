@@ -53,6 +53,7 @@ maavadao/
 ├── maava-Community-Agents/ maava Community Agents, built by the community → Maava-Community-Agents/maava-Community-Agents
 ├── open-source-ai-repos/ Open-source AI repos and their developers → maavadao/open-source-ai-repos
 ├── ai-tools-directory/   AI tools, sites and suites, with pricing → maavadao/ai-tools-directory
+├── free-llm-router/ Free LLMs behind one endpoint, for maava AI  → maavadao/free-llm-router
 ├── supabase/      Database and sign-in for maavadao.com           → maavadao/supabase
 └── org-profile/   The GitHub organisation profile                → maavadao/.github
 ```
